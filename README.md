@@ -1,2 +1,2 @@
-# three_js_models
-first render of obj using three js
+# shapes_threejs
+first render of a cube with threejs
